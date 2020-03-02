@@ -11,3 +11,5 @@
 4. **task 4**:linking files to navbar
 ## Day 3
 1. **task 1**:create a portfolie site for solution anywhere company
+## Day 4
+1. **task 1**: [Basic css styles](https://boring-beaver-123050.netlify.com)
